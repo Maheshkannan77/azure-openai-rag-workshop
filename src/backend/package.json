@@ -33,7 +33,7 @@
     "fastify": "^4.0.0",
     "fastify-cli": "^6.0.1",
     "fastify-plugin": "^4.0.0",
-    "langchain": "^0.2.6"
+    "langchain": "^0.2.19"
   },
   "devDependencies": {
     "@types/node": "^20.11.7",
